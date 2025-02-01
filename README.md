@@ -2,6 +2,10 @@
 
 A Java-based recommendation engine that helps users discover new games based on their Steam library and preferences. The engine uses fuzzy search algorithms and tag-based analysis to provide personalized game recommendations.
 
+
+https://github.com/user-attachments/assets/aa2e35b4-e20c-4ff2-88ed-fd00790c29cc
+
+
 ## Features 🌟
 
 - **Steam Integration**: Automatically imports user's Steam library and playtime data
